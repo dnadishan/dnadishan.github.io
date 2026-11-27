@@ -8,3 +8,7 @@
 .site-header{z-index:20}
 .lightbox{z-index:50}
 @media(max-width:680px){.circuit-canvas{opacity:.4}}
+
+.hero{grid-template-columns:1fr;align-items:center}
+.hero-copy{max-width:760px}
+.brand-portrait{width:36px;height:36px;flex-shrink:0;object-fit:cover;object-position:center 25%;border:1px solid #35516c;border-radius:50%}
